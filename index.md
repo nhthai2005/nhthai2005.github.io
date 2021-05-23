@@ -10,5 +10,6 @@ Scan QR beside
 *	Dockerhub: https://hub.docker.com/u/nhthai2005 
 *	Vagrant Cloud: https://app.vagrantup.com/nhthai2005 
 *	Galaxy Ansible: https://galaxy.ansible.com/nhthai2005
+*	YouTube: https://www.youtube.com/c/ThaiNguyenHong
 
 
