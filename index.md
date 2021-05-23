@@ -6,10 +6,10 @@ Scan QR beside
 [![Nguyen Hong Thai - Contact - QR](Nguyen_Hong_Thai_contacts_QR.png "My contacts")](https://nhthai2005.github.io/contacts.htm)
 
 ### And here are my repositories:
-*	Github: [https://github.com/nhthai2005](https://github.com/nhthai2005)
-*	Dockerhub: [https://hub.docker.com/u/nhthai2005](https://hub.docker.com/u/nhthai2005)
-*	Vagrant Cloud: [https://app.vagrantup.com/nhthai2005](https://app.vagrantup.com/nhthai2005)
-*	Galaxy Ansible: [https://galaxy.ansible.com/nhthai2005](https://galaxy.ansible.com/nhthai2005)
-*	YouTube: [https://www.youtube.com/ThaiNguyenHong](https://www.youtube.com/ThaiNguyenHong)
+*	**Github:** [https://github.com/nhthai2005](https://github.com/nhthai2005)
+*	**Dockerhub:** [https://hub.docker.com/u/nhthai2005](https://hub.docker.com/u/nhthai2005)
+*	**Vagrant Cloud:** [https://app.vagrantup.com/nhthai2005](https://app.vagrantup.com/nhthai2005)
+*	**Galaxy Ansible:** [https://galaxy.ansible.com/nhthai2005](https://galaxy.ansible.com/nhthai2005)
+*	**YouTube:** [https://www.youtube.com/ThaiNguyenHong](https://www.youtube.com/ThaiNguyenHong)
 
 
