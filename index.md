@@ -1,5 +1,5 @@
 ## Nguyen Hong Thai (Shant)
-![Hong-Thai Nguyen](https://avatars.githubusercontent.com/u/51319295?v=4)
+![Hong-Thai Nguyen](https://avatars.githubusercontent.com/u/51319295)(Thai_Nguyen_Hong.vcf)
 
 ### Contact me quickly via [\[Link\]](https://nhthai2005.github.io/contacts.htm) or
 Scan QR beside
