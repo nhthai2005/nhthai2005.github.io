@@ -1,9 +1,9 @@
 ## Nguyen Hong Thai (Shant)
-[![Hong-Thai Nguyen](https://avatars.githubusercontent.com/u/51319295)](Thai_Nguyen_Hong.vcf)
+[![Hong-Thai Nguyen](https://avatars.githubusercontent.com/u/51319295)](data/Thai_Nguyen_Hong.vcf)
 
 ### Contact me quickly via [\[Link\]](https://nhthai2005.github.io/contacts.htm) or
 Scan QR beside
-[![Nguyen Hong Thai - Contact - QR](Nguyen_Hong_Thai_contacts_QR.png "My contacts")](https://nhthai2005.github.io/contacts.htm)
+[![Nguyen Hong Thai - Contact - QR](data/Nguyen_Hong_Thai_contacts_QR.png "My contacts")](https://nhthai2005.github.io/contacts.htm)
 
 ### And here are my repositories:
 *	**Github:** [https://github.com/nhthai2005](https://github.com/nhthai2005)
