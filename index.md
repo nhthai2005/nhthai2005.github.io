@@ -1,4 +1,4 @@
-*Feel free to contact me with links and QR easily!*
+*Feel free to contact me easily with links and QR!*
 
 ## Nguyen Hong Thai (Shant)
 [![Hong-Thai Nguyen](https://avatars.githubusercontent.com/u/51319295)](data/Thai_Nguyen_Hong.vcf)
