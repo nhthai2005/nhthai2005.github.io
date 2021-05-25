@@ -6,10 +6,10 @@
 > I have great school friends!
 
 ![University-Friends](Friends-Nguyen-Hong-Thai-University_Graduation.jpeg)
-> Then, I got married. And I love my family very much!
+> Then, I got married. And I also love my family very much!
 
 ![My-Family](Wedding-Nguyen-Hong-Thai.jpeg)
-> Next, I went to work at Huawei company. There, I had wonderful colleagues. They come from Southeast Asian countries.
+> Next, I went to work for Huawei company. There, I had wonderful colleagues. They come from Southeast Asian countries.
 
 ![Huawei-colleagues](Friends-and-Nguyen-Hong-Thai-in-Huawei-Thailand.jpeg)
 > Outside of society, I also have very close friends. They are successful people in companies. I got to know them when I took the CEO course.
