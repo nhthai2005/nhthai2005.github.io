@@ -1,6 +1,6 @@
 > Hello everybody:
 > 
-> I have spent my life with many memorable wishes. I graduated from university with a prestigious degree
+> I have spent my life with many memorable wishes. I graduated from Ho Chi Minh Chi City University of Technology with a prestigious degree.
 
 ![University-Degree](Nguyen-Hong-Thai-Degree.jpeg)
 > I have great school friends!
