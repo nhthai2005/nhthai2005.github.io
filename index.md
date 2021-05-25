@@ -1,7 +1,7 @@
 *Feel free to contact me with links and QR easily!*
 
 ## Nguyen Hong Thai (Shant)
-[![Hong-Thai Nguyen](https://avatars.githubusercontent.com/u/51319295)](data/Thai_Nguyen_Hong.vcf)
+[![Hong-Thai Nguyen](data/nguyen-hong-thai-circle-cropped.png)](data/Thai_Nguyen_Hong.vcf)
 
 ### Contact me quickly via [\[Link\]](https://nhthai2005.github.io/contacts.htm) or
 Scan QR beside
