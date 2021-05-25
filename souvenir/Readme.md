@@ -1,4 +1,4 @@
-> Hello everybody:
+> Hello everybody,
 > 
 > I have spent my life with many memorable wishes. I graduated from Ho Chi Minh City University of Technology with a prestigious degree.
 
