@@ -10,8 +10,8 @@ Scan QR beside
 ### And here are my repositories:
 - [x] **Github:** [https://github.com/nhthai2005](https://github.com/nhthai2005)
 - [x] **Dockerhub:** [https://hub.docker.com/u/nhthai2005](https://hub.docker.com/u/nhthai2005)
--	[ ] **Vagrant Cloud:** [https://app.vagrantup.com/nhthai2005](https://app.vagrantup.com/nhthai2005)
--	[ ] **Galaxy Ansible:** [https://galaxy.ansible.com/nhthai2005](https://galaxy.ansible.com/nhthai2005)
--	[x] **YouTube:** [https://www.youtube.com/ThaiNguyenHong](https://www.youtube.com/ThaiNguyenHong)
+- [ ] **Vagrant Cloud:** [https://app.vagrantup.com/nhthai2005](https://app.vagrantup.com/nhthai2005)
+- [ ] **Galaxy Ansible:** [https://galaxy.ansible.com/nhthai2005](https://galaxy.ansible.com/nhthai2005)
+- [x] **YouTube:** [https://www.youtube.com/ThaiNguyenHong](https://www.youtube.com/ThaiNguyenHong)
 
 ### I have great memories [\[Here\]](https://nhthai2005.github.io/souvenir).
