@@ -3,7 +3,7 @@
 ## [Nguyen Hong Thai (Shant)](https://nhthai2005.github.io/souvenir)
 [![Hong-Thai Nguyen](data/Nguyen_Hong_Thai_Souvenir.jpeg)](data/Thai_Nguyen_Hong.vcf)
 
-### Contact me quickly via [\[Link\]](https://nhthai2005.github.io/contacts.htm) or
+### Contact [@nhthai2005](https://github.com/nhthai2005) quickly via [\[Link\]](https://nhthai2005.github.io/contacts.htm) or
 Scan QR beside
 [![Nguyen Hong Thai - Contact - QR](data/Nguyen_Hong_Thai_contacts_QR.png "My contacts")](https://nhthai2005.github.io/contacts.htm)
 
