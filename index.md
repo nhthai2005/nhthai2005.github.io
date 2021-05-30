@@ -19,5 +19,5 @@ Scan QR beside
 - [x] **YouTube:** [www.youtube.com/ThaiNguyenHong](https://www.youtube.com/ThaiNguyenHong)
 
 ### Stories:
-* \[1\]: I have great memories [\[Here\]](https://nhthai2005.github.io/souvenir)
+* \[1\]: I have great memories [\[Here\]](https://nhthai2005.github.io/souvenir).
 * \[2\]: To be aware of the life, [Zen](https://youtu.be/pGY7S5Cp3EY).
