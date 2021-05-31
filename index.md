@@ -20,4 +20,5 @@ Scan QR beside
 
 ### Stories:
 * \[1\]: I have great memories [\[Here\]](https://nhthai2005.github.io/souvenir).
-* \[2\]: To be aware of the life, [Zen](https://youtu.be/pGY7S5Cp3EY).
+* \[2\]: Be aware of the life, [Zen](https://youtu.be/pGY7S5Cp3EY).
+* \[3\]: How I build my [HomeLab](https://nhthai2005.github.io/HomeLab) and study myself.
