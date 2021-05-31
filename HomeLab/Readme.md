@@ -13,6 +13,7 @@
 ![IoT mobile Apps](MiscENVBuilding.jpg)
 
 >	I like some Labs on internet. I don’t who they are but I got knowledge through their labs, as following belows:
+
 *	### Tin học thật là đơn giản
     *	**Youtube:** <https://www.youtube.com/c/Tinhọcthậtlàđơngiản/>
 *	### XuanThuLab
@@ -32,7 +33,3 @@
 *	### Play with Docker classroom
     *	**Web:** <https://training.play-with-docker.com/>
     *	**Lab:** <https://labs.play-with-docker.com/>
-
-* [x] abc
-
-* [ ] xyz
