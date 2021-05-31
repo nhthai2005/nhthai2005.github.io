@@ -22,3 +22,7 @@ Scan QR beside
 * \[1\]: I have great memories [\[Here\]](https://nhthai2005.github.io/souvenir).
 * \[2\]: Be aware of the life, [Zen](https://youtu.be/pGY7S5Cp3EY).
 * \[3\]: How I build my [HomeLab](https://nhthai2005.github.io/HomeLab) and study myself.
+
+### Found out some good stuffs:
+* [DevOps Ebooks](https://nhthai2005.github.io/eBooks/#devops-ebooks-and-cheat-sheet)
+* [English Apps](https://nhthai2005.github.io/eBooks/#english)
