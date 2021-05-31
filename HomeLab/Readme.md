@@ -1,4 +1,5 @@
 # HOME LAB
+*Before starting my DevOps career, I think I should have some basic preparation.*
 > First, I built **basic ENV** for self-study and shared my friends and colleagues
 
 ![basic ENV](BaseENVBuilding.jpg)
