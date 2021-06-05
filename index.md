@@ -14,7 +14,7 @@ Scan QR beside
 - [x] **GitHub Gist:** [gist.github.com/nhthai2005](https://gist.github.com/nhthai2005)
 - [ ] **GitLab CI:** [gitlab.com/nhthai2005](https://gitlab.com/nhthai2005)
 - [x] **Dockerhub:** [hub.docker.com/u/nhthai2005](https://hub.docker.com/u/nhthai2005)
-- [ ] **Vagrant Cloud:** [app.vagrantup.com/nhthai2005](https://app.vagrantup.com/nhthai2005)
+- [x] **Vagrant Cloud:** [app.vagrantup.com/nhthai2005](https://app.vagrantup.com/nhthai2005)
 - [ ] **Galaxy Ansible:** [galaxy.ansible.com/nhthai2005](https://galaxy.ansible.com/nhthai2005)
 - [x] **YouTube:** [www.youtube.com/ThaiNguyenHong](https://www.youtube.com/ThaiNguyenHong)
 
