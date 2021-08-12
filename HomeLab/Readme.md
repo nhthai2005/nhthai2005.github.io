@@ -34,3 +34,6 @@
 *	### Play with Docker classroom
     *	**Web:** <https://training.play-with-docker.com/>
     *	**Lab:** <https://labs.play-with-docker.com/>
+*  ### Ansible for DevOps:
+    * **GitHub:** <https://github.com/geerlingguy/ansible-for-devops>
+    * **Youtube:** <https://youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN>
