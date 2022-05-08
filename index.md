@@ -1,4 +1,4 @@
-*Find me with links and QR easily!*
+*Find me from links and QR easily!*
 
 ## [Nguyen Hong Thai (Shant)](https://nhthai2005.github.io/souvenir)
 
