@@ -1,6 +1,6 @@
 *Find me from links and QR easily!*
 
-## [Nguyen Hong Thai (Shant)](https://nhthai2005.github.io/souvenir)
+## [Nguyen Hong Thai (Bob)](https://nhthai2005.github.io/souvenir)
 
 Press [@nhthai2005](https://github.com/nhthai2005)
 [![Hong-Thai Nguyen](data/Nguyen_Hong_Thai_Souvenir.jpeg)](data/Thai_Nguyen_Hong.vcf)
