@@ -1,9 +1,9 @@
 *Find me from links and QR easily!*
 
-## [Nguyen Hong Thai (Bob)](https://nhthai2005.github.io/souvenir)
+## [Thai H. NGUYEN (Bob)](https://nhthai2005.github.io/souvenir)
 
 Press [@nhthai2005](https://github.com/nhthai2005)
-[![Hong-Thai Nguyen](data/IMG_ThaiNGUYENHONG_Bob.JPG)](data/Thai_Nguyen_Hong.vcf)
+[![Thai H. NGUYEN](data/IMG_ThaiNGUYENHONG_Bob.JPG)](data/Thai_Nguyen_Hong.vcf)
 
 ### Contact me quickly via [\[Link\]](https://nhthai2005.github.io/contacts.htm) or
 Scan QR beside
