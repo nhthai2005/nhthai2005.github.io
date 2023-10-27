@@ -3,7 +3,7 @@
 ## [Nguyen Hong Thai (Bob)](https://nhthai2005.github.io/souvenir)
 
 Press [@nhthai2005](https://github.com/nhthai2005)
-[![Hong-Thai Nguyen](data/Nguyen_Hong_Thai_Souvenir.jpeg)](data/Thai_Nguyen_Hong.vcf)
+[![Hong-Thai Nguyen](data/IMG_ThaiNGUYENHONG_Bob.JPG)](data/Thai_Nguyen_Hong.vcf)
 
 ### Contact me quickly via [\[Link\]](https://nhthai2005.github.io/contacts.htm) or
 Scan QR beside
