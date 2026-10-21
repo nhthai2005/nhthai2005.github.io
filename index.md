@@ -13,7 +13,7 @@ Press [@nhthai2005](https://github.com/nhthai2005)
 - [x] **GitHub Gist:** [gist.github.com/nhthai2005](https://gist.github.com/nhthai2005)
 - [x] **Dockerhub:** [hub.docker.com/u/nhthai2005](https://hub.docker.com/u/nhthai2005)
 - [x] **Website:** [shantek.vn](https://shantek.vn)
-- [x] **Portfolio:** [thainguyen.shantek.vn](https://www.thainguyen.shantek.vn)
+- [x] **Portfolio:** [thainguyen.shantek.vn](https://thainguyen.shantek.vn)
 - [x] **Facebook:** [facebook.com/nhthai2005](https://www.facebook.com/nhthai2005)
 - [x] **Tiktok:** [tiktok.com/@nhthai2005](https://www.tiktok.com/@nhthai2005)
 
