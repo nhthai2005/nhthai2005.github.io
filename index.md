@@ -3,9 +3,9 @@
 ## [Thai H. NGUYEN (Bob)](https://nhthai2005.github.io/souvenir)
 
 Press [@nhthai2005](https://github.com/nhthai2005)
-[![Thai H. NGUYEN](data/Nguyen_Hong_Thai_contact.JPG)](https://www.keepintouch.me/nguyenhongthai)
+[![Thai H. NGUYEN](data/Nguyen_Hong_Thai_contact.png)](https://www.keepintouch.me/nguyenhongthai)
 
-### Download [vcard](data/Thai_Nguyen_Hong.vcf)
+### Download [vcard](data/Thai_Nguyen_Hong.vcf) and add info to contact !
 
 ### And here are my repositories:
 - [x] **GitHub:** [github.com/nhthai2005](https://github.com/nhthai2005)
